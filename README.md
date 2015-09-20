@@ -31,6 +31,7 @@ The application prompts the user to continue.
 When the user chooses not to continue, the application displays a goodbye message that indicates the number of Circle objects that were created by the application.
 
 Specifications:
+
 Create a class named Circle to store the data about this circle. This class should contain these constructors and methods:
 public Circle(double radius)
 public double getCircumference()
