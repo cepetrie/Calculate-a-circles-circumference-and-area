@@ -33,12 +33,19 @@ When the user chooses not to continue, the application displays a goodbye messag
 Specifications:
 
 Create a class named Circle to store the data about this circle. This class should contain these constructors and methods:
+
 public Circle(double radius)
+
 public double getCircumference()
+
 public String getFormattedCircumference()
+
 public double getArea()
+
 public String getFormattedArea()
+
 private String formatNumber(double x)
+
 public static int getObjectCount()
 
 The formulas for calculating circumference and area are:
